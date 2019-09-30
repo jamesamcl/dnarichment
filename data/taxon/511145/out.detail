@@ -1,0 +1,58 @@
+Command:  /usr/lib/tigr-glimmer/glimmer3 /home/james/dnarichment/mystery.fasta glimmer3.icm out
+
+Sequence file = /home/james/dnarichment/mystery.fasta
+Number of sequences = 1
+ICM model file = glimmer3.icm
+Excluded regions file = none
+List of orfs file = none
+Input is NOT separate orfs
+Independent (non-coding) scores are used
+Circular genome = true
+Truncated orfs = false
+Minimum gene length = 100 bp
+Maximum overlap bases = 30
+Threshold score = 30
+Use first start codon = false
+Start codons = atg,gtg,ttg
+Start probs = 0.600,0.300,0.100
+Stop codons = taa,tag,tga
+GC percentage = 46.4%
+Ignore score on orfs longer than 659
+
+
+>mystery
+Sequence length = 3028
+
+           ----- Start -----           --- Length ----  ------------- Scores -------------
+ ID  Frame   of Orf  of Gene     Stop   of Orf of Gene      Raw InFrm F1 F2 F3 R1 R2 R3 NC
+        -1      336      249        7      327     240    -3.76     0  -  -  -  0  -  - 99
+0001    +2       17       35      340      321     303     0.03    46  - 46  - 10  -  - 43
+        +1      280      280      387      105     105    -0.56    17 17  -  1  -  - 50 31
+        -2      463      460      353      108     105    -3.24     3  -  -  8  -  3  1 87
+0002    -3      524      356      105      417     249     0.57    68  -  - 14  -  - 68 16
+        -3      641      632      525      114     105    -4.32     1  7  -  0  -  -  1 90
+        +1      457      535      645      186     108    -1.44    17 17  -  1  -  -  2 79
+        -1      858      849      703      153     144    -4.32     0  -  -  0  0  -  2 97
+        +1      790      790      900      108     108    -3.55     1  1  3  4  -  - 33 56
+        -3      926      770      654      270     114    -1.50    15  -  -  3  -  - 15 81
+0003    +3       81     1059     1205     1122     144     0.88    73  -  1 73  2  -  - 21
+        +2      794      929     1228      432     297    -3.19     0  -  0  -  -  -  - 99
+        -1     1248     1125      955      291     168    -3.15     0  -  0  0  0  -  - 98
+        -2     1339     1333     1220      117     111    -5.24     0  -  -  -  -  0  - 99
+        -3     1487     1397     1293      192     102    -4.79     0  -  -  -  -  -  0 99
+        -1     1653     1629     1456      195     171    -6.88     0  -  0  -  0  -  - 99
+        +1     1792     1819     1923      129     102   -11.65     0  0  0  -  -  -  - 99
+        +2     1460     1955     2116      654     159    -5.11     0  -  0  -  -  -  - 99
+        -2     2365     2317     2168      195     147    -7.50     0  -  -  0  -  0  - 99
+        +1     2227     2278     2406      177     126    -7.56     0  0  -  0  -  -  - 99
+        +2     2306     2312     2416      108     102    -7.76     0  -  0  0  -  -  - 99
+        +1     2407     2428     2547      138     117    -8.00     0  0  -  0  -  -  0 99
+        -2     2602     2590     2486      114     102    -8.51     0  -  -  0  -  0  - 99
+        +1     2548     2581     2706      156     123    -7.65     0  0  -  0  -  -  - 99
+        +1     2707     2734     2844      135     108    -5.42     0  0  -  0  0  -  - 99
+        -1     2856     2781     2671      183     108    -1.45    17  -  -  1 17  -  - 80
+        -3     2876     2864     2754      120     108    -7.77     0  -  -  0  -  -  0 99
+0004    +3     2172     2172     2888      714     714    -7.47     0  -  -  0  -  -  - 99
+        -2     2893     2884     2768      123     114   -12.06     0  -  -  0  -  0  - 99
+        +1     2845     2872     2985      138     111    -2.05     9  9  -  -  5  -  - 85
+        -1     2997     2991     2857      138     132    -4.32     0  -  -  -  0  -  - 99

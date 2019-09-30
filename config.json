@@ -1,0 +1,18 @@
+{
+    "IGFindORFs": {
+        "minAALength": 30,
+        "mustBeginWithM": true
+    },
+    "IGPromoterHunter": {
+        "minScore1": 2,
+        "minScore2": 2,
+        "minSummaryScore": 0,
+        "minEnergyScore": 0,
+        "minFinalScore": 0
+    },
+    "IGFindTFBSsBlast": {
+        "maxEValue": 0.0001,
+	"minLength": 10
+    }
+}
+

@@ -1,0 +1,775 @@
+>tetR
+tccctatcagtgatagaga
+>tetR BBa_I20248
+gaattgtccctatcagtga
+>tetR BBa_I20248 2
+ttgacatccctatcagtga
+>tetR BBa_K119010
+tccctatcagtgatagagatactgagcac
+>tetR BBa_I12219
+tctctatcactgataggga
+>tetR BBa_I12212
+tctctgtcactgataggga
+>tetR BBa_K1648004
+aaaacgaaaggctcagtcg
+>tetR BBa_K1194001
+aaagaggagaaattcagtc
+>tetR BBa_K1954004
+aaaccaatcaatggagctg
+>tetR BBa_K1194001
+aaactggaaaatagccgta
+>tetR BBa_J100311
+agtgttatacaga
+>tetR BBa_K1648004
+actagtctgcagccaggca
+>tetR BBa_I12219
+actctatcaatgatagagt
+>tetR BBa_K1341022
+atccctatcagtgatagaga
+>tetR BBa_K415506
+ccctatcagtgataga
+>tetR BBa_K2100004
+ctccctatcagtgat
+>tetR BBa_K1954004
+ctgtaccgtgaactgcgta
+>tetR BBa_J54230
+gatcgtccctatcagtgatagagat
+>tetR BBa_K119010
+ggtccctatcagtgataga
+>tetR BBa_K1648006
+gtgccctggtgcagcctgg
+>tetR BBa_J100311
+tgttatcacgaag
+>tetR BBa_S05276
+gatgtcaaagaatacaagc
+>tetR BBa_K2100004
+tactccctatcagtg
+>tetR BBa_K2100004 2
+actccctatcagtga
+>lexA
+ctgtatgagcatacag
+>lexA WT
+ctgtatatatatacag
+>lexA BBa_I714936
+acatccatacagtaac
+>lexA BBa_K629001
+tactgtatgagcatacagta
+>lexA BBa_K629002
+tactgtacacaataacagta
+>lexA BBa_K1437004
+ttgctgtatatactcacagcataactgtatatacacccagggg
+>ompR BBa_K136004
+gaaaaatcttagataagtgta
+>ompR BBa_J64981
+tttacttttggttacatatt
+>ompR C1 BBa_M31111
+acattttgaaacatctat
+>ompR C2 BBa_M31111
+gataaatgaaacatctta
+>ompR C3 BBa_M31111
+agttttagtatcatattc
+>ompR F1 BBa_R0084
+acttttggttacatattt
+>ompR F2 BBa_R0084
+tctttttgaaaccaaatc
+>ompR F3 BBa_R0084
+tatctttgtagcactttc
+>ompR C1 BBa_K1412888
+atagagattgacatccct
+>ompR C2 BBa_K1412888
+agtgatagagatactgag
+>ompR C3 BBa_K1412888
+cgaatttcggtgatacca
+>ompR C1 WT BBa_J100313
+ataatactcatgatataa
+>ompR C2 WT BBa_J100313
+tagtacagcttagtttcg
+>ompR C3 WT BBa_J100313
+agaatactagttagtat
+>lacI lacO1
+aattgtgagcggataacaat
+>lacI lacO2
+aaatgtgagcgagtaacaac
+>lacI lacO3
+ggcagtgagcgcaacgcaat
+>lacI lacO1 BBa_I751502
+tgtggaattgtgagcggataacaatt
+>lacI lacO1 BBa_I1040
+ataaatgtgagcggataaca
+>lacI BBa_R0185
+ggaattgtgagcggataacaattcc
+>lacI BBa_K245004
+gggaattgtgagcggataacaattcccc
+>lacI BBa_K121011
+gttgtgtggaattgtgagcggataacaatttcaca
+>lacI BBa_K316000
+tgtggaattgtgagcgctcacaattccaca
+>lacI BBa_K611022
+tgtgtggaattgtgagcggataacaatttcacgca
+>lacI BBa_J64981
+aattgtgagcgctcacaatt
+>lacI BBa_J70004
+aattgttatccgctcacaatt
+>lacI BBa_K316000
+tgtgaattgttatccgctcacaattccacac
+>lacI BBa_K400000
+gggattttggtcatgagattatcaaaaaggatctt
+>lacI BBa_K415300
+gttagctttggtggtgtgtggcagttgtagtcctg
+>lacI BBa_K174003
+tgtgagcgctcaca
+>lacI BBa_K611021
+tgtgtggaatcgtgagcggataacaatttctcaca
+>lacI BBa_K611027
+agtgtggaattgtgagcggatatcaatttcacaca
+>lacI BBa_K1311007
+cactttatgcttccggctcgtatgttgtgtggaat
+>lacI BBa_J54015
+gaattgtgagcggataacaattcc
+>lacI BBa_J31013
+tgtgtgaaattgttatccgctcacaattccacac
+>lacI BBa_K1946002
+cacgtttctgcgaaaacggt
+>lacI BBa_K2144101
+cagaatcaggggataacgcaggaaagaacatgtga
+>lacI BBa_K1830000
+ggaattgtgagcggataacaatt
+>lacI BBa_K592008 lacO1
+ttgtgagcggataacaat
+>lacI BBa_K1341022 lacO1
+aaattgtgagcggataacaa
+>lexA BBa_I714930
+tactgtatatatatacagta
+>lexA lexO_sulA BBa_I714937
+tactgtacatccatacagta
+>OR1_434 cI lambda
+aacaaactttcttg
+>OR1_434 cI lambda BBa_I714890
+aactttcttgtaca
+>OR1 cI lambda
+tacctctggcggtgata
+>OR1 cI lambda BBa_I12005
+tatcaccgccagaggta
+>OR1 cI lambda BBa_K415300
+aaacctgtcgtgccagc
+>OR1 cI lambda BBa_I738009
+tcactactagaggcaac
+>OR2_434 cI lambda BBa_I12034
+acaatgtatcttgta
+>OR2 cI lambda
+taacaccgtgcgtgttg
+>OR2 cI lambda BBa_I751500
+taacacaccgtgcgttgact
+>OR2 cI lambda BBa_I12005
+caacacgcacggtgtta
+>OR2 cI lambda BBa_K415300
+gtcactgcccgctttcc
+>OR2 cI lambda BBa_I739105
+taacaccgtgcgtgttga
+>OR2 cI lambda BBa_I12003
+ctaacaccgtgcgtgttg
+>OR2 cI lambda BBa_I738009
+accgccagaggtaaaat
+>OR3 cI lambda
+atctatcaccgcaagggata
+>OR3 cI lambda BBa_I12005
+tatcccttgcggtgata
+>CAP
+gcgcaacgcaattaatgtgagttagctcactcattagg
+>CAP BBa_K1481002
+ctatgccatag
+>CAP BBa_K1741007
+ttgctatgccatag
+>CAP BBa_K1088054
+taatgtgagttagctcactcat
+>CAP BBa_K1481001
+aattgtgaacatcatcacgttc
+>CAP BBa_J70004
+cctaatgagtgagctaactcacattaattgcgttgcgc
+>CAP BBa_K103022
+taatgtgagttagctcactcattagg
+>CAP BBa_K400000
+gaaaaaaaggatctcaagaagatcctttgatcttttct
+>CAP BBa_K415300
+ctgctttccattgagcctgtttctctgcgcgacgttcg
+>CAP BBa_K345667
+tgagcgcaacgcaattaatgtgagttagctcactcattaggc
+>CAP BBa_K564001
+cgacatcacaccgg
+>CAP BBa_K564001
+tgaacgctatcacg
+>CAP BBa_K611021
+gcgcaacgcaattagtgtgggttagctcactcattagg
+>CAP BBa_K611022
+gcgcaacgcaattattgtgagttagctcactcattagg
+>CAP BBa_K611023
+gcgcaacgcaattaaagtgagttagctcactcattagg
+>CAP BBa_K611024
+gcgcaacgcaactaatgtgagttagctcactcattagg
+>CAP BBa_K611025
+gcgcaacgcaattaatgtgagttagctccctcatcagg
+>CAP BBa_K1744000
+tgctatgccatagc
+>CAP BBa_K1741003
+tactgctgcttcacgc
+>CAP BBa_K845001
+tgccatagcatttttatccata
+>CAP BBa_M1674
+tgtgagttagctcac
+>CAP BBa_K1172916
+gcgcaacgcaattaatgtgagttagctcactcattaggc
+>CAP BBa_K1311007
+ttcccgactggaaagcgggcagtgagcgcaacgcaatt
+>CAP BBa_J31013
+gcctaatgagtgagctaactcacattaattgcgttgcgc
+>CAP BBa_I741019
+aagtgtgcgctcgctcgcaaaa
+>CAP BBa_K1741005
+ggtgagcatcacatcacca
+>CAP BBa_J100298
+ttaattgtgatgtgtatcgaagtgtgtt
+>CAP BBa_K2014000
+gctatgccata
+>CAP BBa_K2014001
+gcggtgagcatcacatcacca
+>CAP BBa_K2144101
+cactgactcgctgcgctcggtcgttcggctgcggcgag
+>CAP BBa_K861170
+aaatgtgattataatcacattt
+>CAP BBa_J100074
+taataaattggatttttgtcacacta
+>CAP BBa_K861171
+aaatgtgatttaaatcacattt
+>luxR
+acctgtaggatcgtacaggt
+>luxR BBa_R0063
+acctgtacgatcctacaggt
+>luxR BBa_R0063 putative
+acttgcgacaaacaataggt
+>luxR BBa_K396001
+aacctgtacgatcctacaggt
+>luxR BBa_K091100
+cctgtaggatcgtacagg
+>luxR BBa_K396006
+tacctgtaggatcgtacagg
+>luxR BBa_K396007
+cgtaaacctgtacgatcctacaggt
+>luxR BBa_K658006
+acttgtaggatcgtacaggt
+>luxR BBa_K658007
+acctctaggatcgtacaggt
+>luxR BBa_K658008
+acttctaggatcgtacaggt
+>luxR BBa_K649900
+ccgcatcg
+>luxR BBa_K934024
+cctgtaggatcgtacaggt
+>luxR BBa_K1024001
+acctgtaggatcgtacaggtttacgcaagaaaatggtttgttatagtcgaataaa
+>luxR BBa_K1216007
+accagtaggatcgtagaggt
+>luxR BBa_K1194001
+ctgggtaccaaagaagaaac
+>luxR BBa_K1421005 lux box like elements
+acctgtccgatcggacagta
+>luxR BBa_K1421005 lux box like elements
+cactgttcccgcgtgcagacc
+>luxR BBa_K1165010
+cggacggctggatggcgcactaccaggcgcagaactacatcgagatcgattcgacgg
+>rhlR BBa_K1407016
+tcctgtgaaatctggcagtt
+>rhlR BBa_J06403
+tcctgcatgaattggtaggc
+>rhlR BBa_J64712
+tgtgaaatctggcagtt
+>esaR BBa_K2116004
+cctgtactatagtgcagg
+>esaR BBa_K1670001
+gcctgtactatagtgcaggt
+>esaR BBa_K2116003
+ggtacccctgtactatagtgcaggggtacc
+>esaR BBa_K2116025
+ccctgtactatagtgcag
+>esaR BBa_K2116066
+ggtacccctgtactatagtgcagg
+>esaR BBa_K2116066 2
+cctgtactatagtgcagggg
+>araI BBa_J202000
+tagcggatcctacctga
+>araI BBa_J202000 araI1
+tagcatttttatccata
+>araI BBa_J202005 araC
+tagcaattttatccata
+>araI BBa_J202009 araI1
+tagcatttttatctata
+>araI BBa_J202009 araI1
+tggcatttttatccata
+>araI BBa_J202006
+tagcatgtttatccata
+>araI BBa_J202007
+tagcatttttgtccata
+>araI BBa_J202008
+tagcatttttattcata
+>araI BBa_J202010
+tagcatttttatcccta
+>araI BBa_J202011
+tagcatttttatccatg
+>araI BBa_J202012
+taacatttttatccata
+>araI BBa_J202003
+tagcattttcatccata
+>araI BBa_J202013
+tagaatttttatccata
+>araI BBa_J202009 araI2
+tagtggatcctacctga
+>araI BBa_J202003 araI2
+tagcggatcatacctga
+>araO araO2 BBa_K808032
+aaaccaattgtccata
+>araO araO1 BBa_K808032
+cggcagaaaagt
+>araO BBa_K1067007 araO1 left
+taacaaaagtgtctata
+>araO BBa_K1067007 araO1 right
+cggcagaaaagtccaca
+>araC BBa_K1481002
+atgccatagcatttttatccataagattagcggatcctacctg
+>araC BBa_K354000
+catagcatttttatccataagattagcggatctaac
+>araC BBa_K845001
+cgcaactctctactgtt
+>araC BBa_K845001 2
+atcctacctgacgcttt
+>araC BBa_K845001 3
+gcacggcgtcacacttt
+>araC BBa_K845001 4
+aaaagtccacattgatt
+>araC BBa_K845001 5
+cattgccgtcactgcgt
+>norR BBa_K2116004 high affinity
+gatagtcattttgactactca
+>norR BBa_K2116004 low affinity
+agatattgtcatatcga
+>xylR BBa_K1741007
+gtgaattatctcaat
+>xylR BBa_K625002
+ttgatcaaatcgacag
+>xylR BBa_K625002 2
+gatgatttgctcaaatacagcc
+>xylR BBa_I741015
+gaaataaaccaaaaat
+>xylR BBa_I741015 2
+atcgaaagataaaaat
+>xylR BBa_K851002
+gttagtttgttt
+>xylR BBa_K851002 2
+aacaaacta
+>xylR BBa_K861200
+aaagcttttagtttgtttgggcaacaaactaaggtac
+>xylR BBa_I741015
+attatgttatttcaca
+>xylR BBa_I741015 2
+attgagataattcaca
+>xylR BBa_I741017
+atttttatctttcgat
+>xylR BBa_I741017 2
+atttttggtttatttc
+>xylR BBa_I741019
+ctattgagataattcac
+>xylR BBa_I741019 2
+caattatgttatttcac
+>loxP BBa_K740000
+ataacttcgtatagcatacattatacgaagttat
+>loxP BBa_K740000 2
+ataacttcgtataatgtatgctatacgaagttat
+>vloxP BBa_K1641012
+tcaatttctgagaactgtcattctcggaaattga
+>ascI BBa_J70012
+ggcgcgcc
+>lasR BBa_K1407016 OP2
+acctgcttttctgctagc
+>lasR BBa_K1407016 OP1
+acctgccagttctggcaggt
+>lasR BBa_M39014
+aatctatctcatttgctagtt
+>lasR BBa_M36576
+acctgcccggaagggcaggt
+>arcA BBa_J100067
+ttgcatatttttaaca
+>arcA BBa_J100075
+acataaatgtcagtaaagttaccttattgaaacatgattaacataatttg
+>arcA BBa_J100074
+gatttttgtcacacta
+>arcA BBa_J100074 2
+caattacttaacataagc
+>arcA BBa_K239008
+gctaacaaaatgttg
+>arcA BBa_J100301
+gttaaattaaagaac
+>fis BBa_K239005
+tcgtttgatttacatcaaa
+>fis BBa_J3101
+gtgtcaacaattgacc
+>fis BBa_J3101 2
+gtgcaaattgtgacc
+>flhDC BBa_K136000
+aacgtcagaggtagca
+>flhDC BBa_K136000 2
+cgtcttttccccgctt
+>flhDC BBa_K136001
+tatcggcggaataaac
+>flhDC BBa_K136002
+aacggcataaatagcg
+>flhDC BBa_K136002 2
+cgtttattccgccgat
+>flhDC BBa_K136003
+aaagccctaaatcccg
+>flhDC BBa_K136003 2
+ccttactcaaaccatt
+>flhDC BBa_K136001
+cggaataaacgcaaaatgggtcgctatttatgccgt
+>flhDC BBa_K136006
+tcgctatttatgccgt
+>flhDC BBa_K136010
+aatttacctgtaacccccaaataacccc
+>flhDC BBa_K136010 2
+tcatttcacccactaatcgtccgattaaaaaccctg
+>fnr BBa_J100075
+ttgatatttatcaat
+>fnr BBa_J100075 2
+ttgttctcgatcaaat
+>fnr BBa_K239002
+ttgatcgaacagca
+>fnr BBa_K239002 2
+ttgatctggtttgc
+>fnr BBa_K239003
+ttgatcgaaatcaa
+>fnr BBa_K239003 2
+ttgatctggatcaa
+>fnr BBa_K239004
+ttgatcgttatcaa
+>fnr BBa_K239005
+atgataaatatcaa
+>fnr BBa_K239006
+ttgataaatatcaa
+>IHF BBa_K625002
+tttacaaagaaaatcaataatttagatg
+>IHF BBa_K524203
+attcaagtggtta
+>IHF BBa_K239005
+ccgtgaaaaatct
+>nctA BBa_K390007
+gtatcacgaattac
+>nctA BBa_K390011
+gtactgatttttac
+>parB BBa_K817016
+ggttccacgtggaaca
+>pprA BBa_K625002
+caaatcgacaggtggttatg
+>trpR BBa_K360023
+taactagtacgcaagtt
+>trpR BBa_K360023
+gaactagttaactagtacgc
+>trpR BBa_K360023 2
+taatcatcgaactagtta
+>vsrD BBa_K831016
+tcggatgggacttttgtgtgat
+>xylE BBa_K1062002 middle
+caattcgtcgccatacatga
+>xylE BBa_K1062003 end
+ccagtacacgcagctgcaca
+>xis BBa_K329046 left
+agatacttcacgttt
+>xis BBa_K329041 right
+ggaagtatctttatat
+>PRE BBa_K2100008
+cgggacgtggtgttct
+>PRE BBa_K2100009
+cgggacatggtgttct
+>PRE BBa_K2100009 2
+caggacatggtgttct
+>PRE BBa_K2100009 3
+aggtacatggtgttct
+>PRE BBa_K2100009 4
+cggtacgtggtgttct
+>PRE BBa_K2100010
+tgggacgtggtgttct
+>PRE BBa_K2100010 2
+tgggacatggtgttct
+>PRE BBa_K2100010 3
+tggtacatggtgttct
+>PRE BBa_K2100010 4
+taggacatggtgttct
+>PRE BBa_K2100010 5
+tggtacgtggtgttct
+>repA BBa_K125340
+gcctttccccctacccgaagggtgggggcgcgtgtgcagccccgcaggg
+>rhaR BBa_K564001
+ttaaatttttgacg
+>rhaR BBa_K564001 2
+tctttttttcaaga
+>rhaS BBa_K1741005
+atctttccctggttgcc
+>rhaS BBa_K1741005
+gtcagtaacgagaaggt
+>rhaS BBa_K1481001
+atctttccctggttgccaatggcccattttcctgtcagtaacgagaagg
+>rhaS BBa_K564001
+ctttgccttgttgc
+>agrA BBa_K1351037
+ttaactag
+>agrA BBa_K1351037 2
+taactgta
+>agrA BBa_K1351037 3
+cagttagg
+>agrA BBa_K1351038
+ttgcctaa
+>agrA BBa_K1351038 2
+tacttaac
+>agrA BBa_K1351038 3
+cgtctagt
+>ahrC BBa_J64804
+cttgcatttatataaaggg
+>fadR BBa_J54222
+gtacgaccagatagat
+>fadR BBa_J100067
+atctggtacgaccaga
+>fadR BBa_K861060
+agctggtccgacctatactctcgccactggtctgatttctaaga
+>fadR BBa_J54220
+tctggtacgaccagat
+>fadR BBa_J54223
+tcgcggtatggcatga
+>fadR BBa_J54223
+tggtacgaccagatag
+>fadR BBa_J54224
+gcatacgcgttactag
+>YFP BBa_K1323000
+ccatctaattcaaccaaaat
+>YFP BBa_K1323001
+actaatgttggccatggaac
+>YFP BBa_K1323005
+tttgaaaccatctagtaatgtttttc
+>YFP BBa_K1323006
+tcaccttttgaaaccatctagtaatgtt
+>YFP BBa_K1323007
+taaataattcttcaccttttgaaaccat
+>ZFP BBa_J05210
+ttataaatagtg
+>ZFP BBa_J05209
+actattttacct
+>zntR BBa_K190016
+actctggagtcgactccagagt
+>rocR BBa_J64804
+tatgcaaaagaattttgcact
+>rocR BBa_J64804 2 
+atatcagaatgtttttgcacc
+>ryhB BBa_K2016005 
+taataataaaggagagtagcaatgtca
+>comE BBa_K1510002
+accgtttagga
+>comE BBa_K1510002 2
+accatttagga
+>comE BBa_K1351024
+acactttgg
+>comE BBa_K1351024 2
+acagttgag
+>comE BBa_K1351025
+gcagttggg
+>comE BBa_K1351025 2
+tcatttggg
+>CBP BBa_K1393000
+cctaatgagtgagctaactcacattaattgcgttgcgc
+>CBP BBa_K1393001
+tccccgcatcatggcggctgg
+>araR BBa_K174001
+aaatgtatacggacaaattt
+>araR BBa_K174001 2
+taatataagtacgtacaattgaagg
+>fixJ BBa_K1913022
+gtacgtag
+>fixJ BBa_K1913022
+ttgatctgggtcaa
+>fixJ BBa_K1913025
+cgaaattt
+>arsR BBa_K190015
+acacattcgttaagtcatatatgtttttgactt
+>arsR BBa_K2180011
+agtaatcaaaataaattgatttattt
+>arsR BBa_K2180011
+tttatttagttaaataaaactaatga
+>baeR BBa_K239001
+tcttcataatctctgcaaa
+>baeR BBa_K239001
+tctttttttctccata
+>BAP BBa_K2170000
+ggcctgaacgacatcttcgaggcccagaaaatcgagtggcacgag
+>ERE BBa_K123002
+gaggtcagagtgacc	
+>ERE BBa_K2100000
+cggtcaacatga	
+>ERE BBa_K2100000 2
+atggtcatcatg	
+>ERE BBa_K2100000 3
+atcgcggtcaga	
+>ERE BBa_K2100001
+atggtcaaaatg	
+>ERE BBa_K2100001 2
+acgcggtcacat	
+>ERE BBa_K2100001 3
+ggtcaggctgac	
+>ERE BBa_K2100001 4
+gcggtcagtatg 
+>ERE BBa_K2100001 5
+ttgacggtcata
+>ERE BBa_K2100002
+acggtcatgatg
+>ERE BBa_K2100002 2
+ggtcatttcgac
+>ERE BBa_K2100002 3
+acggtcaggatga
+>ERE BBa_K2100002 4
+ggaggtcattat
+>ERE BBa_K2100002 5
+atgcgcggtcag
+>ERE BBa_K2100002 6
+ggttggtcagatt
+>ERE BBa_K2100010
+tggtcaaaatgacc
+>ERE BBa_K2100010 2
+ggtcacattgacca
+>ERE BBa_K2100010 3
+aggtcaggctgacc
+>ERE BBa_K2100010 4
+cggtcagtatgacc
+>ERE BBa_K2100010 5
+ggtcatattgacca
+>fruR BBa_K2180002
+tgaaagattttgatagttatt
+>fruR BBa_K2180002
+gaatgaatttgaatgattt
+>fur BBa_J07019
+ggaaaataattctta
+>fur BBa_K2180007
+tgataatgataatcattatca
+>gal4 BBa_K1400000
+cggaagactctcctccg
+>GFP BBa_K1062001
+ggttgtctggtaaaaggaca
+>hxlR BBa_K1334000
+gttgacttcaaagtgcctacttctc
+>hxlR BBa_K1334000 2
+cctcacagtatcctccaagtaactt
+>hxlR BBa_K1334001
+ctcacagtatcctccaagtaactt
+>hxlR BBa_K1706000
+cacagtatcctccaagtaacttgttgactt
+>hxlR BBa_K1706000 2
+caaagtgcctacttctcaacaaaagaagg
+>copA BBa_K1555007
+acatccgcctgctcaacatc
+>cpxR BBa_J15502
+ttacggacttttac
+>cpxR BBa_K239000
+gtaaattaccgtcaga
+>cpxR BBa_K239000
+gtaaagacgaacaataaa
+>cpxR BBa_K239000
+acaataaatttttac
+>cpxR BBa_K239001
+tttcattgttttac
+>cueR BBa_K190017
+gaccttcccgtaaggggaaggactat
+>czrA BBa_K2180001
+cttatatatgagtatatgctcatatatataa
+>degU BBa_K2180003
+gacatttt
+>degU BBa_K2180003
+ttttacag
+>dnaD BBa_K524203
+tgtgtataa
+>E2C BBa_K874060
+ggggccggagccgcagt
+>ccaR BBa_K1385001
+ctttccgatttctttacgattt
+>cepR BBa_K1670003
+ctgtttacttttacag
+>nsrR BBa_K216005
+aaatggtatttaaaatgcaaatt
+>nsrR BBa_M36789
+tcacttaaaaaggagatcaacaa
+>melR BBa_K1741003
+tattcccataaactcaga
+>melR BBa_K1741003
+gatctgagtttatgggaat
+>mntR BBa_K2180010
+ttgacaagaaaccgggatggtcagatgatgtagataaaa
+>narL BBa_K239005
+cactgtactcac
+>narL BBa_K216005
+taaccaataaatggta
+>narL BBa_M36789
+gcccaagttcacttaa
+>liaR BBa_K823001
+tacgactccggtcttatataaaaatcaatctctga
+>oxyR BBa_K1104203
+ataggtaagagcttaga
+>oxyR BBa_K1104203
+aaaaggcataacctatcact
+>oxyR BBa_K1104201 bs1
+cgactatcatacctatt
+>oxyR BBa_K1104202 bs1
+ttctgatttgacctctc
+>oxyR BBa_K1104205 bs1
+aaaaggcataacctatc
+>oxyR BBa_K1104201 bs2
+aaacagattgttgtctg
+>oxyR BBa_K1104202 bs2
+aattagttcttcttcct
+>zif23 BBa_R2001
+cccacgcgcgtggg
+>zif268 BBa_K323151
+gcgtgggcg
+>zif268 BBa_K323153
+gcgtgggc
+>zif268 BBa_K165030
+ctcgagcgatgctgcatcgatgctgcatcgatgctgcattctcgag
+>zif268 BBa_C2000 finger2
+cgtagtgaccaccttaccacc
+>zif268 BBa_C2004 finger3
+ccgttcgcttgcgacatctgcggtcgtaaattcgctcgttccgacgaacgtaaacgtcac
+>zif268 BBa_C2000 finger3
+aggagtgatgaacgcaagagg
+>zif268 BBa_C2003 finger3
+ccttttgcctgtgacatttgtgggaggaagtttgccaggagtgatgaacgcaagcgtcat
+>phcA BBa_K831016
+aacgggcatcatgt
+>plcR BBa_K354003
+tatgcattatttcatat
+>ppsR BBa_K227007
+tgtcagccaacactgaca
+>ppsR BBa_K227007
+tgtcagcgcaatgtgaca
+>RFP BBa_K1062000
+aactttcagtttagcggtct
+>FRT BBa_K1641015
+gaagttcctatactttttagagaataggaacttc
+>FRT BBa_K1641015 2
+gaagttcctattctctaaaaagtataggaacttc
+>rox BBa_K1641016
+taactttaaataattggcattatttaaagtta
+>rox BBa_K1641016 2
+taactttaaataatgccaattatttaaagtta
+>SloxM1 BBa_K1641018
+ctcgtgtccgataactgtaattatcggacacgag
+>SloxM1 BBa_K1641018 2
+ctcgtgtccgataattacagttatcggacacgag
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+	"outDir": "./dist/",
+        "target": "es6",
+        "sourceMap": true,
+        "inlineSources": false,
+        "module": "commonjs",
+        "allowJs": true,
+        "checkJs": true,
+        "baseUrl": ".",
+        "alwaysStrict": true,
+        "strictNullChecks": true,
+        "paths": {
+		"enrichment": [ "enrichment" ]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
